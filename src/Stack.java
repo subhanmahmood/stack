@@ -25,7 +25,6 @@ public class Stack {
         for(int i = 0; i < this.stack.length; i++){
             System.out.println(this.stack[i]);
         }
-        System.out.println(this.top);
     }
 
     void peek(){
